@@ -3,7 +3,7 @@
 ## run
 
 - install `yarn setup`
-- run `yarn dev` to run the app
+- run `yarn dev` to run the app 
 
 # greetings x credits x kudos
 
